@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="meta-ring" fetch="ssh://github.com/" />
+    <default revision="master" remote="meta-ring" />
+
+    <project name="demetrius-ring/meta-ring" remote="meta-ring" path="sources/meta-ring" />
+
+</manifest>
+
